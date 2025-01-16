@@ -1,7 +1,35 @@
 .head{
     padding-top: 20px;
-    height: 60px;
+    height: 80px;
+}
+.text-header{
+    font-size: 20px;
 }
 .head-1{
+    margin-top: 30px;
+}
+.box-1{
+    padding: 0 100px;
+}
+.nav-second{
+    padding-left: 250px;
+}
+.buton{
     margin-top: 20px;
+    padding: 10px 20px !important;
+    width: 10% !important;
+}
+.btn-custom{
+    border-radius: 30px !important;
+    font-size: 20px !important;
+    color: black !important;
+    padding: 15px !important;
+    background: transparent !important;
+}
+.btn-custom-1{
+    border-radius: 20px !important;
+    font-size: 20px !important;
+    color: black !important;
+    padding: 5px 10px!important;
+    background: transparent !important;
 }
